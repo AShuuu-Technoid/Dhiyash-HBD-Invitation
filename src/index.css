@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes bubble {
+  0% {
+    transform: scale(0);
+    opacity: 0.6;
+  }
+  50% {
+    transform: scale(1);
+    opacity: 0.3;
+  }
+  100% {
+    transform: scale(0);
+    opacity: 0;
+  }
+}
+
+.animate-bubble {
+  animation: bubble 2s ease-out forwards;
+}
+html, body {
+  max-height: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.min-h-screen {
+  max-height: 100%;
+  overflow: hidden;
+}
