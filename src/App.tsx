@@ -131,16 +131,34 @@ function App() {
         }}>
           <div className="flex items-center space-x-2">
             <Calendar size={20} md:size={24} className="text-white" />
+            <a
+        href="https://calendar.app.google/cbS4p9r5QvuCk9dUA" // Replace with actual link to the location or details
+        target="_blank"
+        rel="noopener noreferrer"
+        >
             <p className="text-xs md:text-sm font-bold text-white">Jan 11, Saturday</p>
+            </a>
           </div>
           <div className="flex items-center space-x-2">
             <Clock size={20} md:size={24} className="text-white" />
+            <a
+        href="https://calendar.app.google/cbS4p9r5QvuCk9dUA" // Replace with actual link to the location or details
+        target="_blank"
+        rel="noopener noreferrer"
+        >
             <p className="text-xs md:text-sm font-bold text-white">At 6:00 PM</p>
+            </a>
           </div>
           <div className="flex items-center space-x-2">
             <MapPin size={20} md:size={24} className="text-white" />
             <div className="text-center">
+            <a
+        href="https://bit.ly/dhiyash-1st-HBD" // Replace with actual link to the location or details
+        target="_blank"
+        rel="noopener noreferrer"
+      >
               <h2 className="text-xs md:text-sm font-bold text-white">Shivjay Mini Hall</h2>
+              </a>
             </div>
           </div>
         </div>
