@@ -112,7 +112,6 @@ function App() {
           🙋🏻 Come celebrate the big ONE with us! 🎈<br />It's a day full of joy, laughter, and <br />🎂🍰 cake as we mark Dhiyash's very <br />🥳 first milestone 🎉<br />🎁 Join us for a fun-filled birthday bash 🎊 <br />🫶🏻 let's make it a memorable one 📸 <br />⏳ We can't wait to celebrate with you! 🤩
           </p>
         </div>
-
         <div className="max-w-md mx-auto p-3 space-y-3 relative" style={{
           backgroundImage: "url('https://i.ibb.co/bNfnbs6/Wooden-Board-Illustration-Wood-Board-Clipart-Wooden-Board-Cartoon-Wooden-Board-Hand-Drawn-PNG-Transp.png')",
           backgroundSize: 'cover',
