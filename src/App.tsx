@@ -72,7 +72,6 @@ function App() {
             ))}
           </div>
         </div>
-
         <div className="max-w-3xl mx-auto p-4 relative" style={{
           backgroundImage: "url('https://i.ibb.co/bNfnbs6/Wooden-Board-Illustration-Wood-Board-Clipart-Wooden-Board-Cartoon-Wooden-Board-Hand-Drawn-PNG-Transp.png')",
           backgroundSize: 'cover',
