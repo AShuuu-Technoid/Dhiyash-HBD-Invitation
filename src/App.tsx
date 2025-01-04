@@ -134,9 +134,8 @@ function App() {
         href="https://calendar.app.google/cbS4p9r5QvuCk9dUA" // Replace with actual link to the location or details
         target="_blank"
         rel="noopener noreferrer"
-        className="text-blue-400 hover:underline"
         >
-            <p className="text-xs md:text-sm font-bold text-white">Jan 11, Saturday</p>
+            <p className="text-xs md:text-sm font-bold text-white underline">Jan 11, Saturday</p>
             </a>
           </div>
           <div className="flex items-center space-x-2">
@@ -145,9 +144,8 @@ function App() {
         href="https://calendar.app.google/cbS4p9r5QvuCk9dUA" // Replace with actual link to the location or details
         target="_blank"
         rel="noopener noreferrer"
-        className="text-blue-400 hover:underline"
         >
-            <p className="text-xs md:text-sm font-bold text-white">At 6:00 PM</p>
+            <p className="text-xs md:text-sm font-bold text-white underline">At 6:00 PM</p>
             </a>
           </div>
           <div className="flex items-center space-x-2">
@@ -157,9 +155,8 @@ function App() {
         href="https://bit.ly/dhiyash-1st-HBD" // Replace with actual link to the location or details
         target="_blank"
         rel="noopener noreferrer"
-        className="text-blue-400 hover:underline"
       >
-              <h2 className="text-xs md:text-sm font-bold text-white">Shivjay Mini Hall</h2>
+              <h2 className="text-xs md:text-sm font-bold text-white underline">Shivjay Mini Hall</h2>
               </a>
             </div>
           </div>
